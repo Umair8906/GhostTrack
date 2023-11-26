@@ -38,13 +38,13 @@ on the IP Track menu, you can combo with the seeker tool to get the target IP
 
 Display on the menu ```Phone Tracker```
 
-<img src="https://github.com/HunxByts/Gho" />
+<img src="" />
 
 on this menu you can search for information from the target phone number
 
 Display on the menu ```Username Tracker```
 
-<img src="https://github.com/HunxByts/Ghong"/>
+<img src=""/>
 on this menu you can search for information from the target username on social media
 
 <
